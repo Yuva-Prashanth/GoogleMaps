@@ -1,4 +1,4 @@
-<h1 align="center">PaceNav</h1>
+<h1 align="center">GoogleMaps Clone</h1>
 
 ![Image alt text](https://raw.githubusercontent.com/Yuva-Prashanth/Assets/main/Google-Maps-Clone.png "PACENAV")
 
